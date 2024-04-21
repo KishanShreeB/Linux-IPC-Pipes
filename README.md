@@ -1,4 +1,4 @@
-# Linux-IPC--Pipes
+cd # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
 
@@ -86,7 +86,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-
+![alt text](<Screenshot from 2024-04-21 15-46-08.png>)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -107,7 +107,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-
+![alt text](<Screenshot from 2024-04-21 15-49-58.png>)
 
 # RESULT:
 The program is executed successfully.
